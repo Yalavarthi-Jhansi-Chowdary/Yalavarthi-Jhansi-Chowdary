@@ -7,14 +7,13 @@
 
 ## 👩‍💼 About Me
 
-I'm a data-driven analyst and strategist with an MSc in Industrial Management & Innovation from Uppsala University (2025), specialising in **Supply Chain Management**, **Strategic Procurement**, and **Business Development**.
+I'm an MSc candidate in Industrial Management & Innovation at Uppsala University (graduating 2025), specialising in **Supply Chain Management**, **Strategic Procurement**, and **Business Development**.
 
-I have hands-on consulting experience across two industry engagements in Sweden:
+My academic journey has included real-world applied work:
 
-- 🏭 **Nova Diamant AB** — Led supply chain and product assortment analysis using Python and statistical tools, contributing to a **15% increase in market penetration** within four months.
-- 🚛 **Scania (Course Project)** — Conducted competitive landscape analysis and developed market positioning strategies projected to deliver a **15% increase in market share**, adopted by senior management.
-
-I thrive in analytical, cross-functional environments and enjoy turning data into strategic decisions.
+- 📦 **Nova Diamant AB** *(Apprenticeship, Aug–Dec 2024)* — Conducted market research and supply chain analysis, analysed sales and consumer behaviour data using statistical tools, and developed go-to-market recommendations that contributed to a 15% increase in market penetration.
+- 🚛 **Scania Case Study** *(Uppsala University Course Project, Oct 2023–Jan 2024)* — Applied SWOT and Porter's Five Forces frameworks to analyse Scania's competitive position in the transportation sector and developed strategic recommendations for market positioning.
+- 🎓 **Master's Thesis** *(Dec 2024–Aug 2025)* — Developed the "Strategic Startup Compass," a framework for analysing strategic growth trajectories of tech startups. Published on Uppsala University's DiVA Portal.
 
 ---
 
@@ -31,18 +30,18 @@ I thrive in analytical, cross-functional environments and enjoy turning data int
 
 ## 📂 Featured Projects
 
-| Project | Description | Tools |
+| Project | Description | Type |
 |---|---|---|
-| 🔗 Supply Chain Market Analysis | Competitor & assortment analysis for industrial products market in Sweden | Python, Excel |
-| 🔗 Strategic Startup Compass | Master's thesis — strategic growth framework for tech startups | Qualitative Research |
-| 🔗 Scania Competitive Strategy | Market positioning & competitive analysis for automotive sector | SWOT, Porter's Five Forces |
+| 📦 Nova Diamant — Market & Supply Chain Analysis | Competitor & assortment analysis for the industrial products market in Sweden | Apprenticeship |
+| 🚛 Scania — Strategy & Competitive Analysis | SWOT & Porter's Five Forces case study on Scania's market position | University Course Project |
+| 🎓 Strategic Startup Compass | MSc thesis framework for analysing tech startup growth strategies | Master's Thesis |
 
 ---
 
 ## 🎓 Education
 
 - 🎓 **MSc Engineering/Industrial Management** — Uppsala University (2023–2025)
-  - Thesis: *Strategic Growth for Tech Startups* — Published on DiVA Portal
+  - Thesis: *Strategic Growth for Tech Startups* — [Published on DiVA Portal](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-560471)
 - 🎓 **BEng Mechanical Engineering** — R.V.R. & J.C. College of Engineering (2018–2022)
 
 ---
@@ -54,4 +53,4 @@ I thrive in analytical, cross-functional environments and enjoy turning data int
 
 ---
 
-*Currently seeking graduate roles in Supply Chain, Operations, Strategy, or Business Development in Sweden. Available from autumn 2025. Feel free to reach out!* 🚀
+*Currently seeking graduate roles, trainee programmes, and internships in Supply Chain, Operations, Strategy, or Business Development in Sweden. Available from autumn 2025.* 🚀
